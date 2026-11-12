@@ -1,0 +1,19 @@
+# Python cache files
+pycache/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Generated application data
+activity_log/
+move_history.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
